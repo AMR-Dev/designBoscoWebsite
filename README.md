@@ -1,4 +1,4 @@
-# AMR Website
+# DesignBosco & AMR Website
 Página web de la empresa. Materia Diseño Web.
 
 ## Realizar el sitio web de la empresa
