@@ -1,0 +1,136 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-dark {
+    background-color: #212121 !important;
+}
+
+.bg-bosco {
+    background-color: #4AC816;
+}
+
+.boscoLogo {
+    width: 160px;
+    font-size: 0;
+}
+
+.boscoLogoContainer {
+     display: block;
+     font-size: 0;
+     margin-bottom: 0;
+}
+
+#navbarDesignBosco .nav-item a {
+    margin: 0 5px;
+    font-weight: 600;
+}
+
+#main .carousel-inner img {
+    height: 80vh;
+    object-fit: cover;
+}
+
+#carousel {
+    position: relative;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.btn {
+    font-weight: 500;
+    padding: 10px 20px;
+}
+
+#main .row .btn {
+    width: 80%;
+    font-size: 18px;
+}
+
+.btn-designbosco {
+    background-color: #4AC816;
+    color: white;
+    font-size: 18px;
+}
+
+.btn-designbosco:hover {
+    background-color: #46ad1b;
+    color: white;
+}
+
+
+.main-title {
+    font-size: 42px;
+}
+
+#info h2 {
+    font-size: 28px;
+}
+
+#info p {
+    font-size: 18px;
+}
+
+#info img {
+    width: 170px;
+}
+
+#contacto {
+    background-color: #2b2b2b;
+}
+
+#contacto h2 {
+    color: white;
+    font-size: 26px;
+}
+
+#contacto .btn {
+    font-size: 18px;
+    border: 1.4px solid white;
+    width: 100%;
+    max-width: 350px;
+}
+
+#contacto img {
+    width: 50px;
+    height: 50px;
+}
+
+#contacto .social-network a:hover {
+    opacity: 0.5;
+}
+
+#footer {
+    height: 56px;
+    padding: 8px 16px;
+}
+
+#footer a,#footer p {
+    font-size: 16px;
+    color: white;
+    padding: 8px;
+    margin: 0;
+}
+
+#footer a:hover {
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+#website-product {
+    background-color: #2b2b2b;
+    color: white;
+}
+
+#logo-product {
+    background-color: white;
+    color: black;
+}
