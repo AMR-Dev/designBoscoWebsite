@@ -109,8 +109,8 @@ body, html {
 }
 
 #footer {
-    height: 56px;
-    padding: 8px 16px;
+    /* height: 56px;
+    padding: 8px 16px; */
 }
 
 #footer a,#footer p {
@@ -125,12 +125,43 @@ body, html {
     text-decoration: none;
 }
 
-#website-product {
+#pagweb-product {
     background-color: #2b2b2b;
     color: white;
+    height: 100vh;
+
+}
+
+#pagweb-product h1 {
+    font-size: 48px;
+}
+
+#pagweb-product p {
+    font-size: 20px;
+}
+
+#pagweb-product img {
+    width: 100%;
 }
 
 #logo-product {
     background-color: white;
     color: black;
+    height: 100vh;
+}
+
+#logo-product h1 {
+    font-size: 48px;
+}
+
+#logo-product p {
+    font-size: 20px;
+}
+
+#logo-product img {
+    width: 100%;
+}
+
+#footer {
+    background-color: #212121 !important;;
 }
