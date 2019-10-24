@@ -2,7 +2,7 @@
 ### Namecheap:
   - designbosco.com: **$10.98/yr**
 ### GoDaddy:
-  - designbosco.com: **$524.99/yr**, **$92.99** el primer año
+  - designbosco.com: **U$524.99/yr** (**$14~**)
 ### nic:
   - designbosco.com.uy: **U$670/yr** (**$18~**)
 
