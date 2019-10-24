@@ -21,3 +21,7 @@
     > 50 GB SSD,
     > Unlimited Websites,
     > AutoBackup & Cloud Storage
+### Antel
+  - Hosting y Dominio: **$U10080/yr** (**$269.74~**)
+### NetUy
+ - Hosting y Dominio: De **$100/yr** en adelante
