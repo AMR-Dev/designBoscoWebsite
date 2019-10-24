@@ -24,4 +24,4 @@
 ### Antel
   - Hosting y Dominio: **$U10080/yr** (**$269.74~**)
 ### NetUy
- - Hosting y Dominio: De **$100/yr** en adelante
+ - Hosting y Dominio: De **$150/yr** en adelante
