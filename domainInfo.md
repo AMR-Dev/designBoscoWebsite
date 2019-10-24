@@ -8,16 +8,16 @@ nic:
 
 # Hosting
 Github Hosting:
-  Gratis (Pero no puede ser comercial, así que no vale para la página real)
+  -*Gratis* (Pero no puede ser comercial, así que no vale para la página real)
 Namecheap Shared Hosting (US or UK Datacenter)
-  Stellar: $33.88/yr
-    20 GB SSD
-    3 Websites
-  Stellar Plus: $57.88/yr
-    Unmetered SSD
-    Unlimited Websites
-    AutoBackup
-  Stellar Business: $93.88/yr
-    50 GB SSD
-    Unlimited Websites
-    AutoBackup & Cloud Storage
+  -Stellar: *$33.88/yr*
+    >20 GB SSD
+    >3 Websites
+  -Stellar Plus: *$57.88/yr*
+    >Unmetered SSD
+    >Unlimited Websites
+    >AutoBackup
+  -Stellar Business: *$93.88/yr*
+    >50 GB SSD
+    >Unlimited Websites
+    >AutoBackup & Cloud Storage
